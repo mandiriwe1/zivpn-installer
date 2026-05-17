@@ -30,4 +30,4 @@ Auto installer + panel management untuk ZIVPN UDP VPN server.
 
 ### Method 1 (wget recommended)
 ```bash
-wget -qO install.sh https://raw.githubusercontent.com/mandiriwe1/zivpn-installer/main/install.sh && bash install.sh
+wget -O install.sh https://raw.githubusercontent.com/mandiriwe1/zivpn-installer/main/install.sh && chmod +x install.sh && bash install.sh
