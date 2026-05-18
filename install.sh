@@ -7,7 +7,7 @@ MENU="/usr/local/bin/zivpn"
 CONF="/etc/zivpn/config.json"
 SERVICE="/etc/systemd/system/zivpn.service"
 
-URL="https://github.com/mandiriwe1/zivpn-installer/releases/download/Udp/udp-zivpn-linux-amd64.1"
+URL="https://github.com/mandiriwe1/zivpn-installer/releases/download/udp-zivpn-linux-amd64"
 
 DEFAULT_USERS='["zivpn","yhds"]'
 
